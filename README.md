@@ -114,4 +114,4 @@ The application is fully functional offline, with all changes queued locally and
 
 *Author:* Cristiana Bărnuț  
 *Course:* Mobile Programming  
-*Project:* FlashCards App
+*Project:* MindFlip App
