@@ -113,5 +113,5 @@ The application is fully functional offline, with all changes queued locally and
 ---
 
 *Author:* Cristiana Bărnuț  
-*Course:* Mobile Application  
+*Course:* Mobile Applications  
 *Project:* MindFlip App
